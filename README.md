@@ -1,18 +1,9 @@
-## Getting Started
+#Media Rental Software
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+First Java Project with JavaFX
+Implements Java File writer and scanner.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+<img width="1792" alt="Screenshot 2023-05-16 at 12 22 28 AM" src="https://github.com/BelalHmeidat/Media-Rental-Software/assets/26521613/b3ff5abd-dbf3-4406-a5e9-022c027c0e93">
+<img width="1792" alt="Screenshot 2023-05-16 at 12 24 12 AM" src="https://github.com/BelalHmeidat/Media-Rental-Software/assets/26521613/55192f60-7ebe-4a9e-9232-7f472b6748e2">
+<img width="1792" alt="Screenshot 2023-05-16 at 12 24 33 AM" src="https://github.com/BelalHmeidat/Media-Rental-Software/assets/26521613/7faadddb-43d6-4311-a750-f10cb052983c">
+<img width="1792" alt="Screenshot 2023-05-16 at 12 24 45 AM" src="https://github.com/BelalHmeidat/Media-Rental-Software/assets/26521613/4b34a4b6-59ee-4cc5-bd0c-2dadf8117db4">
