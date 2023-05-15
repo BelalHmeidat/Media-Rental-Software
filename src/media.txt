@@ -1,0 +1,11 @@
+Game; AB78988; Dark; 0; 2.0
+Movie; AB78978; Batman; 5; HR
+Movie; AB78968; James Bond; 4; DR
+Movie; AC78988; Throne of Games; 9; DR
+Album; AB7D988; Habibi Bibo; 87; Fairok; Bibi Habibi, Luna, Tuna
+Game; AB7898B; Dark Souls; 0; 1.0
+Game; AB789H8; AC; 1; 7.0
+Movie; AB78P88; No Time to Die; 3; HR
+Album; AB789R8; Califronication; 70; Red Chili Peper; Cali, Fornication
+Movie; AB789N8; Viking; 4; AC
+Album; AB78T88; Fire and Ice; 4; Belal; Fire, Ice, Ice Cold, Ice Age, Ice Dragon, Firey Ice
